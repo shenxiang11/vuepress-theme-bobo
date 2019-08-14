@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-theme-bobo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "shenxiang11",
+    "email": "863461783@qq.com"
+  },
+  "repository": "/vuepress-theme-bobo",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0",
+    "@vuepress/theme-blog": "^1.0.0"
+  }
+}
